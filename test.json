@@ -2,32 +2,57 @@
   "date": 1421384400000,
   "events": [
     {
-      "name": "Casual",
-      "where": ""
+      "name": "60-140",
+      "where": "Introduction to Algorithms and Programming I"
     },
     {
-      "name": "Taco Time",
-      "from": 1421431200000,
-      "to": 1421438400000,
-      "where": "Brooklyn Taco Co. 120 Essex Street New York, NY 10002"
+      "name": "60-141",
+      "where": "Introduction to Algorithms and Programming II"
     },
     {
-      "name": "Pottery Painting",
-      "from": 1421449200000,
-      "to": 1421452800000,
-      "where": "The Art Cafe CH 326 Troy Avenue Brooklyn, NY 11213"
+      "name": "60-100",
+      "where": "Key Concepts in Computer Science"
     },
     {
-      "name": "Running",
-      "from": 1421456400000,
-      "to": 1421458200000,
-      "where": ""
+      "name": "60-265",
+      "where": "Computer Architecture I: Digital Design"
     },
     {
-      "name": "Grocery Shopping",
-      "from": 1421460000000,
-      "to": 1421461800000,
-      "where": ""
+      "name": "60-212",
+      "where": "Object-Oriented Programming Using Java"
+    },
+
+    {
+      "name": "60-254",
+      "where": "Data Structures & Algorithms"
+    },
+
+    {
+      "name": "60-256",
+      "where": "System Programming"
+    },
+
+    {
+      "name": "60-266",
+      "where": "Computer Architecture II: Micro. Program"
+    },
+    {
+      "name": "62-120",
+      "where": "Linear Algebra"
+    },
+    {
+      "name": "60-322",
+      "where": "Object-Oriented Software Analysis/Design"
+    },
+    {
+      "name": "60-330",
+      "where": "Operating Systems Fundamentals"
+    },
+    {
+      "name": "60-334",
+      "where": "World Wide Web Information System Development."
     }
+
+
   ]
 }
