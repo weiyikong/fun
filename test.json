@@ -36,10 +36,7 @@
       "name": "60-266",
       "where": "Computer Architecture II: Micro. Program"
     },
-    {
-      "name": "62-120",
-      "where": "Linear Algebra"
-    },
+    
     {
       "name": "60-322",
       "where": "Object-Oriented Software Analysis/Design"
@@ -51,7 +48,16 @@
     {
       "name": "60-334",
       "where": "World Wide Web Information System Development."
-    }
+    },
+     {
+      "name": "62-280",
+      "where": "Software Engineering"
+    },
+    {
+      "name": "62-120",
+      "where": "Linear Algebra"
+    },
+   
 
 
   ]
