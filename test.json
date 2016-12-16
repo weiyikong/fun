@@ -2,16 +2,16 @@
   "title": "My Courses Taken At uWindsor",
   "events": [
     {
+      "name": "60-100",
+      "where": "Key Concepts in Computer Science"
+    },
+    {
       "name": "60-140",
       "where": "Introduction to Algorithms and Programming I"
     },
     {
       "name": "60-141",
       "where": "Introduction to Algorithms and Programming II"
-    },
-    {
-      "name": "60-100",
-      "where": "Key Concepts in Computer Science"
     },
     {
       "name": "60-265",
