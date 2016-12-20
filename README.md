@@ -1,3 +1,3 @@
 test.json is used by: <br>
 
-http://jerrykong.ca/courses/#/
+http://jerrykong.ca/courses.html
