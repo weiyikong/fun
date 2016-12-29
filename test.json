@@ -3,7 +3,8 @@
   "events": [
     {
       "name": "60-100",
-      "where": "Key Concepts in Computer Science"
+      "where": "Key Concepts in Computer Science",
+      "content": "Functional programming in Miranda such as recursion"
     },
     {
       "name": "60-140",
