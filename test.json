@@ -8,54 +8,65 @@
     },
     {
       "name": "60-140",
-      "where": "Introduction to Algorithms and Programming I"
+      "where": "Introduction to Algorithms and Programming I",
+      "content": "Learnt basics of C"
     },
     {
       "name": "60-141",
-      "where": "Introduction to Algorithms and Programming II"
+      "where": "Introduction to Algorithms and Programming II",
+      "content": "Learnt harder concepts in C"
     },
     {
       "name": "60-265",
-      "where": "Computer Architecture I: Digital Design"
+      "where": "Computer Architecture I: Digital Design",
+      "content": "Learnt low level concepts as as binary and hexdecimal"
     },
     {
       "name": "60-212",
-      "where": "Object-Oriented Programming Using Java"
+      "where": "Object-Oriented Programming Using Java",
+      "content": "Learnt concepts in Java such as Classes, Inhertience, Methods, etc"
     },
-
     {
       "name": "60-254",
-      "where": "Data Structures & Algorithms"
+      "where": "Data Structures & Algorithms",
+      "content": "Trees, Sorting, HashMap, etc"
     },
 
     {
       "name": "60-256",
-      "where": "System Programming"
+      "where": "System Programming",
+      "content": "Bash, working with UNIX"
     },
 
     {
       "name": "60-266",
-      "where": "Computer Architecture II: Micro. Program"
+      "where": "Computer Architecture II: Micro. Program",
+      "content": "Assembly language, procedural passing, recursion, stack, register tracing"
     },
     {
       "name": "60-280",
-      "where": "Software Engineering in Java"
+      "where": "Software Engineering in Java",
+      "content": "Lambda, GUI, Client & Server"
     },
     {
       "name": "60-322",
-      "where": "Object-Oriented Software Analysis/Design"
+      "where": "Object-Oriented Software Analysis/Design",
+      "content": "Use Cases, UML, Design Patterns" 
     },
     {
       "name": "60-330",
       "where": "Operating Systems Fundamentals"
+      "content": "Thread, Processes, etc" 
     },
     {
       "name": "60-334",
-      "where": "World Wide Web Information System Development."
+      "where": "World Wide Web Information System Development.",
+      "content": "PHP, HTML, CSS, AJAX, XML"
     },
     {
       "name": "62-120",
-      "where": "Linear Algebra"
+      "where": "Linear Algebra",
+      "content": "Matrix" 
     }
     ]
 }
